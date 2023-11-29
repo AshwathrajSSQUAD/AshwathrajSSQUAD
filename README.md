@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshwathrajSSQUAD
+- 👋 Hi, I’m @Ashwath
 - 👀 I’m interested in DevOPS
 - 📫 How to reach me --ashwathraj@ssquad.com
 
